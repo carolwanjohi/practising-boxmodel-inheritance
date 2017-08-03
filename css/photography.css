@@ -15,9 +15,13 @@ fieldset{
 }
 img{
   width: 47%;
+  border: 2px solid #f2d7d5;
 }
 .logo{
   margin: 0 auto;
   display: block;
   height: 200px;
+}
+.portrait{
+  background-color: #fdedec;
 }
